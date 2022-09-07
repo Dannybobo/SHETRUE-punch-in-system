@@ -3,7 +3,7 @@ A web site for working people  eazy to punch in and punch out.
 
 //中文
 社True打卡系統使用:
-Eclipse IDE (Java EE)\n
+Eclipse IDE (Java EE)
 jdk-18
 Tomcat 10 (Servlet 內 javax 會換成 jakarta)
 WEB-INF/lib/mysql-connector-java-8.0.29(包含在專案內)
