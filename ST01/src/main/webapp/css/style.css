@@ -1,0 +1,142 @@
+@charset "UTF-8";
+
+body {
+    font-family: sans-serif;
+}
+
+input[type=text],input[type=password], select {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	box-sizing: border-box;
+}
+
+input[type=submit] {
+	width: 160px;
+	background-color: #4CAF50;
+	color: white;
+	padding: 14px 20px;
+	display: block;
+    margin: 0 auto;
+    margin-top: 8px;
+	border: none;
+	border-radius: 25px;
+	cursor: pointer;
+}
+
+input[type=submit]:hover {
+	background-color: #45a049;
+}
+
+input[type=reset] {
+	width: 160px;
+	background-color: #bfbfbf;
+	color: white;
+	padding: 14px 20px;
+	display: block;
+    margin: 0 auto;
+    margin-top: 8px;
+	border: none;
+	border-radius: 25px;
+	cursor: pointer;
+}
+input[type=reset]:hover {
+	background-color: #757575;
+}
+
+.divCenter{
+	margin: 0 auto 0 auto;
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+}
+.formBackground{
+	border-radius: 15px;
+	background-color: #f2f2f2;
+	padding: 20px;
+	width: 300px;
+}
+.navBackground{
+	border-radius: 15px;
+	background-color: #f2f2f2;
+	padding: 20px;
+	width: auto;
+}
+.profileBackground {
+	border-radius: 15px;
+	background-color: #f2f2f2;
+	padding: 20px;
+	width: auto;
+}
+
+table {
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 70%;
+	margin: 0 auto;
+}
+
+th {
+	border: 1px solid #ffffff;
+	background: #dddddd;
+	text-align: left;
+	padding: 8px;
+}
+
+td {
+	border: 1px solid #dddddd;
+	text-align: left;
+	padding: 8px;
+}
+
+.button {
+	border: none;
+	color: white;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 25px;
+}
+.button:hover {
+	background-color: #bfbfbf;
+}
+
+.buttonBlue {
+	background-color: #008CBA;
+} /* Blue */
+.buttonGreen {
+	background-color: #4CAF50;
+} /* Green */
+.buttonRed {
+	background-color: #ff5445;
+} /* Red */
+.buttonGray {
+	background-color: #757575;
+} /* Gray */
+.buttonPurple {
+	background-color: #a474fc;
+} /* Purple */
+.buttonYellow {
+	background-color: #edce00;
+} /* Yellow */
+
+.warning {
+	text-align: center;
+	color: red;
+}
+
+.tip {
+	text-align: center;
+	color: gray;
+}
+
+.textCenter {
+	text-align: center;
+}
