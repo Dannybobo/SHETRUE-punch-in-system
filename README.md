@@ -1,6 +1,6 @@
 # SHETRUE-punch-in-system
-A JSP web site for working people more easier to punch in and punch out.
-Main funtions:  
+A JSP web site for working people more easier to punch in and punch out.  
+Main funtions:   
 1.Punch in and punch out.  
 2.Records management.  
 3.Account management.  
