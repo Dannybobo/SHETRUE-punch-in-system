@@ -1,5 +1,5 @@
 # SHETRUE-punch-in-system
-A web site for working people  eazy to punch in and punch out.
+A JSP web site for working people  eazy to punch in and punch out.
 
 //中文  
 社True打卡系統使用:  
