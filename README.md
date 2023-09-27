@@ -27,4 +27,15 @@ WEB-INF/lib/mysql-connector-java-8.0.29(包含在專案內)
 MySQL80 (st.sql 已附上)  
 sql都要執行過'SET SQL_SAFE_UPDATES=1;'才可修改  
 
-<img src="Screenshots/login.png" width="100px" />
+<img src="Screenshots/login.png" width="200px" />
+<img src="Screenshots/index.png" width="200px" />
+<img src="Screenshots/punchin.png" width="200px" />
+<img src="Screenshots/punchout.png" width="200px" />
+<img src="Screenshots/punch_message.png" width="200px" />
+<img src="Screenshots/record.png" width="200px" />
+<img src="Screenshots/memo.png" width="200px" />
+<img src="Screenshots/members.png" width="200px" />
+<img src="Screenshots/add_member.png" width="200px" />
+<img src="Screenshots/profile.png" width="200px" />
+<img src="Screenshots/edit_password.png" width="200px" />
+<img src="Screenshots/logout_message.png" width="200px" />
